@@ -65,7 +65,8 @@
 
 > The key to OOP is undestanding that objects send messages to one another. So far, we've exclusively worked with single classes, but that's not even remotely indicative of a real-world application. So, let's take a step up the latter, and talk about communication.
 
-- messages
+- Messages-类之间交互数据
+    - 实例区分
 - vedios from dropbox.com
     - **OOP-Bootcamp-5-Messages.mp4**
 - Github links
