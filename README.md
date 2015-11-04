@@ -11,7 +11,7 @@
 - 视频
     - **OOP-Bootcamp-1-Classes.mp4**
 - 源码
-    - [Github入口][1]
+    - [demo.class.php][1]
 
 ## 知识清单
 
