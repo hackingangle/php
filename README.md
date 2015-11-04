@@ -81,9 +81,13 @@
 
 - namespacing, autoloading and psr4
     - composer
-        - ![Alt text](./1446630993257.png)
+        - ![Alt text](./assets/images/1446630993257.png)
         - composer.json定义如下
-            - ![Alt text](./1446631402844.png)
+            - ![Alt text](./assets/images/1446631402844.png)
+    - 命名空间
+        - `\`代表绝对路径，否则为相对于当前空间的
+        - `use`默认据对路径
+
 - vedios from dropbox.com
     - **OOP-Bootcamp-6-Namespacing-Autoloading-and-PSR4.mp4**
 - Github links
