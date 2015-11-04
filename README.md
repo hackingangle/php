@@ -62,4 +62,4 @@
     2. setter
     3. getter
 
-[1]:https://github.com/hackingangle/php/blob/master/demo.encapsulation.php
+[demo.encapsulation.php]:https://github.com/hackingangle/php/blob/master/demo.encapsulation.php
