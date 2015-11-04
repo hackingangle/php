@@ -58,8 +58,30 @@
 
 ## 知识清单
 
-1. 类属性值改变
-    2. setter
-    3. getter
+1. 封装权限
+    2. private属性不可被外部直接访问
+    3. 通过公共方法setter和getter来访问
 
 [demo.encapsulation.php]:https://github.com/hackingangle/php/blob/master/demo.encapsulation.php
+
+------
+# 4. Inheritance
+
+@(laravel-面向对象基础)[面向对象基础|laravel框架准备知识]
+
+> Luckily, inheritance is a fairly easy concept to understand. I'll show you a few different examples to illustrate this common pattern.
+
+## 资源
+
+- 视频
+    - **OOP-Bootcamp-4-Inheritance.mp4**
+- 源码
+    - [demo.inheritance.php][demo.inheritance.php]
+
+## 知识清单
+
+1. 继承
+    2. 不应被实例化的类用**abstract**指定
+    3. 子类一定要继承且覆盖实现的方法用**abstract**指定
+
+[demo.inheritance.php]:https://github.com/hackingangle/php/blob/master/demo.inheritance.php
