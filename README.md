@@ -40,4 +40,26 @@
     2. setter
     3. getter
 
-[1]:https://github.com/hackingangle/php/blob/master/demo.setter_getter.php
+[demo.setter_getter.php]:https://github.com/hackingangle/php/blob/master/demo.setter_getter.php
+
+------
+# 3. Encapsulation
+
+@(laravel-面向对象基础)[面向对象基础|laravel框架准备知识]
+
+> Encapsulation is a confusing, scary term, that simply refers to the act of hiding information. Let me show you.
+
+## 资源
+
+- 视频
+    - **OOP-Bootcamp-3-Encapsulation.mp4**
+- 源码
+    - [demo.encapsulation.php][demo.encapsulation.php]
+
+## 知识清单
+
+1. 类属性值改变
+    2. setter
+    3. getter
+
+[1]:https://github.com/hackingangle/php/blob/master/demo.encapsulation.php
