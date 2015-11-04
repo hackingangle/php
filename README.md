@@ -80,6 +80,10 @@
 > Though not directly related to OOP, it's important that we take a short break to discuss such topics as namespacing and autoloading. These are core concepts that you must learn.
 
 - namespacing, autoloading and psr4
+    - composer
+        - ![Alt text](./1446630993257.png)
+        - composer.json定义如下
+            - ![Alt text](./1446631402844.png)
 - vedios from dropbox.com
     - **OOP-Bootcamp-6-Namespacing-Autoloading-and-PSR4.mp4**
 - Github links
