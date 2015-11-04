@@ -15,6 +15,10 @@ class Person
      */
     public function setAge($age)
     {
+        if ($age > 100) {
+            throw new Exception('You are too old!');
+        }
+
         $this->age = $age;
 
         return $this;
