@@ -93,7 +93,7 @@
 - Github links
     - [demo.namespace_autload_psr4.php][demo.namespace_autload_psr4.php]
 
-[demo.namespace_autload_psr4.php]:https://github.com/hackingangle/php/blob/master/demo.namespace_autload_psr4.php
+[demo.namespace_autload_psr4.php]:https://github.com/hackingangle/php/tree/master/demo.namespace_autoload_psr4
 
 ------
 # 7. Statics and Constants
