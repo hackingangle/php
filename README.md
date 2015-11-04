@@ -1,8 +1,8 @@
-# PHP学习资源
+# 1. Classes
 
 @(laravel-面向对象基础)[面向对象基础|laravel框架准备知识]
 
-## 1.Classes
+## Classes
 
 > Naturally, the first step in our journey is to review the structure of a PHP class. As you'll find, they allow us to represent pieces of our domain in a readable and flexible fashion.
 
