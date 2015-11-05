@@ -143,7 +143,6 @@
 - vedios from dropbox.com
     - **OOP-Bootcamp-9-Interface-versus-Abstract.mp4**
 - Github links
-    - [demo.interfaces_vs_abstract.php][demo.interfaces_vs_abstract.php]
 
 [demo.interfaces_vs_abstract.php]:https://github.com/hackingangle/php/blob/master/demo.interfaces_vs_abstract.php
 
