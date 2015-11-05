@@ -125,6 +125,8 @@
 > Appreciating the benefits of coding to an interface took me a very, very long time. This video will be step one on your journey. Watch it multiple times.
 
 - Interfaces
+    - 定义一个约定，两个实现
+    - 使用者只需更换实现即可完成约定的切换
 - vedios from dropbox.com
     - **OOP-Bootcamp-8-Interfaces.mp4**
 - Github links
