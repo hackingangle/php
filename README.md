@@ -91,9 +91,9 @@
 - vedios from dropbox.com
     - **OOP-Bootcamp-6-Namespacing-Autoloading-and-PSR4.mp4**
 - Github links
-    - [demo.namespace_autload_psr4.php][demo.namespace_autload_psr4.php]
+    - [demo.namespace_autload_psr4][demo.namespace_autload_psr4]
 
-[demo.namespace_autload_psr4.php]:https://github.com/hackingangle/php/blob/master/demo.namespace_autload_psr4.php
+[demo.namespace_autload_psr4]:https://github.com/hackingangle/php/tree/master/demo.namespace_autoload_psr4
 
 ------
 # 7. Statics and Constants
@@ -144,8 +144,6 @@
     - **OOP-Bootcamp-9-Interface-versus-Abstract.mp4**
 - Github links
 
-[demo.interfaces_vs_abstract.php]:https://github.com/hackingangle/php/blob/master/demo.interfaces_vs_abstract.php
-
 ------
 # 10. A Review
 
@@ -156,6 +154,6 @@ In this episode, we'll review many of the terms that you've learned in this seri
 - vedios from dropbox.com
     - **OOP-Bootcamp-10-Review.mp4**
 - Github links
-    - [demo.review.php][demo.review.php]
+    - [demo.review][demo.review]
 
-[demo.review.php]:https://github.com/hackingangle/php/blob/master/demo.review.php
+[demo.review]:https://github.com/hackingangle/php/tree/master/demo.review
