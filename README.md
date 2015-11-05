@@ -93,7 +93,7 @@
 - Github links
     - [demo.namespace_autload_psr4.php][demo.namespace_autload_psr4.php]
 
-[demo.namespace_autload_psr4.php]:https://github.com/hackingangle/php/tree/master/demo.namespace_autoload_psr4
+[demo.namespace_autload_psr4.php]:https://github.com/hackingangle/php/blob/master/demo.namespace_autload_psr4.php
 
 ------
 # 7. Statics and Constants
@@ -101,6 +101,17 @@
 > You've likely come across an article on the web, which stated that statics are evil. What do they mean by this? Is it true? Well...partially. Let's talk about it in this episode.
 
 - Statics and Constants
+    - statics
+        - 内存存储分布
+            - 对象-堆内存
+            - 对象引用-栈内存
+            - 静态成员-初始化静态段
+                - 可以被堆内存中每个对象`共享`
+                - 类`第一次加载`时，放置到初始化静态段中
+        - 被不同的实例对象共享
+    - constants
+        - 不能使用`$`
+        - 不在类中使用`define('MAX', 100)`定义
 - vedios from dropbox.com
     - **OOP-Bootcamp-7-Statics-and-Constants.mp4**
 - Github links
